@@ -1,0 +1,10 @@
+# IntelliJ
+.idea
+*.iws
+*.iml
+*.ipr
+
+# SBT output
+*/project/boot
+*/project/target
+target
